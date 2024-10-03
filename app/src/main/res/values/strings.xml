@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">HotleRoom</string>
+    <string name="The_Sapphire_Horizon">The Sapphire Horizon</string>
+    <string name="Golden_Palm_Resort">Golden Palm Resort</string>
+    <string name="Azure_Sky_Retreat">Azure Sky Retreat</string>
+    <string name="Crystal_Bay_Hotel">Crystal Bay Hotel</string>
+    <string name="The_Regal_Sunset">The Regal Sunset</string>
+    <string name="Majestic_Pearl_Inn">Majestic Pearl Inn</string>
+    <string name="Emerald_Garden_Suites">Emerald Garden Suites</string>
+    <string name="Silver_Sands_Lodge">Silver Sands Lodge</string>
+    <string name="The_Royal_Pines_Haven">The Royal Pines Haven</string>
+    <string name="Ocean_Breeze_Villas">Ocean Breeze Villas</string>
+
+<!--    Location Tags  -->
+    <string name="Santorini_Greece">Santorini, Greece</string>
+    <string name="Miami_USA">Miami, USA</string>
+    <string name="Bali_Indonesia">Bali, Indonesia</string>
+    <string name="Dubrovnik_Croatia">Dubrovnik, Croatia</string>
+    <string name="Cape_Town_South_Africa">Cape Town, South Africa</string>
+    <string name="Bora_Bora_French_Polynesia">Bora Bora, French Polynesia</string>
+    <string name="Kyoto_Japan">Kyoto, Japan</string>
+    <string name="Maldives">Maldives</string>
+    <string name="Queenstown_New_Zealand">Queenstown, New Zealand</string>
+    <string name="Gold_Coast_Australia">Gold Coast, Australia</string>
+    <string name="price_prefix">$</string>
+
+</resources>
